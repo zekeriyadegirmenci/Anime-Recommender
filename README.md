@@ -1,5 +1,7 @@
 # animeProject
 
+The dataset used in this project is sourced from [Kaggle](https://www.kaggle.com/datasets/dbdmobile/myanimelist-dataset).
+
 ## Images
 
 <img width="1440" alt="top50animeImage" src="https://github.com/user-attachments/assets/f008ce57-c659-4ee5-8f41-529c3b3087dc" />
