@@ -4,7 +4,7 @@ import numpy as np
 
 popular_df = pickle.load(
     open(
-        "/Users/zekeriyadegirmenci/Desktop/other/DemoProject_DSa/data/processed/popular.pkl",
+        "../data/processed/popular_df.pkl",
         "rb",
     )
 )
