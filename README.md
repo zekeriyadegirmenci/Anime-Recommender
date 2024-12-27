@@ -1,6 +1,6 @@
 # animeProject
 
-The dataset used in this project is sourced from [Kaggle](https://www.kaggle.com/datasets/dbdmobile/myanimelist-dataset).
+The dataset used in this project is sourced from [Anime-Data](https://www.kaggle.com/datasets/dbdmobile/myanimelist-dataset).
 
 ## Images
 
